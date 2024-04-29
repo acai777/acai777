@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello! I'm Arno 👋 
+
+I am a Software Engineer based in Boston, MA. Prior to software development, I worked in research and analyzed healthcare data, where I realized that I enjoyed breaking down problems and building solutions to complex challenges.
+
+Most recently, I developed [Willow](https://willow-cdc.github.io/), an open-source, self-hosted framework for building log-based change data capture pipelines that update caches in near real-time based on changes in a database.
+
+[Read more about Willow](https://willow-cdc.github.io/)
+
+[My website](https://www.arnocai.com/)
 
 <!--
 **acai777/acai777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
